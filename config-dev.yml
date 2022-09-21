@@ -1,5 +1,5 @@
 config:
-  info: version1.0
+  info: version1.1
 eureka:
   client:
     service-url:
